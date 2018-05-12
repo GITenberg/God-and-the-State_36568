@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9485
     wikipedia: http://en.wikipedia.org/wiki/Mikhail_Bakunin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36568#God-and-the-State
 gutenberg_issued: '2011-06-30'
 gutenberg_type: Text
 identifiers:
